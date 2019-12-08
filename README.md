@@ -2,11 +2,11 @@
 
 ### Queries & Mutations
 ```graphql
-    type tasks {
-        id: Int
-        description: String
-        date: String
-    }
+type tasks {
+    id: Int
+    description: String
+    date: String
+}
 ```
 
 ```graphql
